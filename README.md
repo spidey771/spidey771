@@ -24,9 +24,5 @@
    <br/>
    <br/>
  
-#### :pencil2: Log
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey771&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### :pencil2: Thank You 
 </div>
