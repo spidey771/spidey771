@@ -13,7 +13,7 @@
  * Security Research and Hacking Experience, Reverse Engineer, Programming and Development <br>
  <br/>
   
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo='C++'&logoColor=white">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=C#&logoColor=white">
 <img src="https://img.shields.io/badge/delphi-E62431?style=for-the-badge&logo=Delphi&logoColor=white">
