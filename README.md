@@ -71,7 +71,7 @@
 ✅ x86/x64 Reverse Engineering & Disassembly
 ✅ PE Format & Windows Internals
 ✅ Code Injection (DLL Injection / Shellcode / Remote Injection)
-✅ Anti-Cheat Analysis (EAC, Vanguard, Xenuine)
+✅ Anti-Cheat Analysis (NGS, Xigncode, BE, EAC, Vanguard, Xenuine)
 ✅ Memory Forensics & Dynamic Analysis
 ✅ Game Engine Internals (ECS Architecture)
 ✅ Network Protocol Analysis (TCP/UDP / Packet Forensics)
